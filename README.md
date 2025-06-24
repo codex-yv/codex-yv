@@ -66,11 +66,11 @@ There’s still a long way to go, and the tech world keeps evolving, but my goal
 
 ## What I am doing
 
-- 🔭 I’m currently working on [Bazaro - Inventory/Shop Management System](https://github.com/codex-yv/Shop-Management-System---Bazaro)
+- 🔭 I’m currently updating newly released [Bazaro - Inventory/Shop Management System](https://github.com/codex-yv/Shop-Management-System---Bazaro) 
 
 - 🌱 I’m currently learning **CPP**
 
-- 💬 Ask me about **Python, CPP, MySql, SQlite, Mongodb Atlas**
+- 💬 Available for freelancing.
 
 - 📫 How to reach me **yourajverma960@gmail.com**
 
