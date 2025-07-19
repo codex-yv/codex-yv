@@ -66,7 +66,7 @@ There’s still a long way to go, and the tech world keeps evolving, but my goal
 
 ## What I am doing
 
-- 🔭 I’m currently working on LeetPrepMate (LeetPrepMate)[https://github.com/codex-yv/LeetCodePrepMate]
+- 🔭 Work done on LeetCodePrepMate (LeetPrepMate)[https://github.com/codex-yv/LeetCodePrepMate]
 - 🌱 I’m currently learning **CPP**
 
 - 💬 Available for freelancing.
