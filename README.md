@@ -66,7 +66,7 @@ There’s still a long way to go, and the tech world keeps evolving, but my goal
 
 ## What I am doing
 
-- 🔭 Working on **EasyDB**
+- 🔭 Working on **Expense Manager <currently private repository>**
 - 🌱 I’m currently learning **Django**
 
 - 💬 Available for freelancing.
