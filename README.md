@@ -86,7 +86,7 @@ There’s still a long way to go, and the tech world keeps evolving, but my goal
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codex-yv&repo=realpass_pypi&theme=buefy" />
 </a>
 <a href="https://github.com/codex-yv/Password-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codex-yv&repo=Password-Manager&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codex-yv&repo=Valutlify&theme=buefy" />
 </a>
 <br />
 <br />
