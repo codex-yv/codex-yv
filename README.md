@@ -1,5 +1,9 @@
 <h1 align="center">Hey! I am still coding.</h1>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
+</div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/youraj-verma-929383317/" target="_blank">
@@ -43,8 +47,16 @@
   <img src="https://img.shields.io/badge/SMTP-0072C6?style=for-the-badge&logo=minutemailer&logoColor=white" alt="SMTP" />
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
+</div>
+
 <h3 align="left">My GitHub Status 🤗 </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codex-yv" alt="codex-yv" /></a> </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
+</div>
 
 <h3 align="left">About Me 😎 </h3>
 
@@ -64,6 +76,10 @@ There’s still a long way to go, and the tech world keeps evolving, but my goal
 
 🔁 **KEEP Learning, KEEP Exploring**</p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
+</div>
+
 ## What I am doing
 
 - 🔭 Working on **Expense Manager <currently private repository>**
@@ -72,6 +88,10 @@ There’s still a long way to go, and the tech world keeps evolving, but my goal
 - 💬 Available for freelancing.
 
 - 📫 How to reach me **yourajverma960@gmail.com**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
+</div>
 
 ## Top Projects
 
