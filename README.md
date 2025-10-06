@@ -93,6 +93,13 @@ There’s still a long way to go, and the tech world keeps evolving, but my goal
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 </div>
 
+## 🛠️ Skills  
+
+<p align="center">
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,fastapi,cpp,py,mysql,mongodb,sqlite,git,github,vscode,tensorflow,pytorch,sklearn,opencv,matlab,figma,linux,windows,apple,kali" />
+</p>
+
 ## Top Projects
 
 
