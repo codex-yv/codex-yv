@@ -82,8 +82,8 @@ There’s still a long way to go, and the tech world keeps evolving, but my goal
 
 ## What I am doing
 
-- 🔭 Working on **Expense Manager <currently private repository>**
-- 🌱 I’m currently learning **Django**
+- 🔭 Working on **Chatting web-app <currently private repository>**
+- 🌱 I’m currently learning **Nginx**
 
 - 💬 Available for freelancing.
 
