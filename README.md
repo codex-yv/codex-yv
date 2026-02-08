@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/SMTP-0072C6?style=for-the-badge&logo=minutemailer&logoColor=white" alt="SMTP" />
 </p>
 
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 </div>
@@ -54,27 +55,6 @@
 <h3 align="left">My GitHub Status 🤗 </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codex-yv" alt="codex-yv" /></a> </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
-</div>
-
-<h3 align="left">About Me 😎 </h3>
-
-<p>👋 Hi, I’m Youraj Verma — a passionate Full Stack Python Developer.
-
-My interest in coding began back in class 10. The first languages I encountered were HTML and CSS, and I was instantly curious about how they worked and what they could do. Even though they weren’t part of the syllabus, I kept exploring them out of pure fascination. 🌐✨
-
-In class 11, I was introduced to Python, and that’s when my real coding journey took off. I quickly shifted my focus from HTML and CSS to Python — and fell in love with it. 🐍❤️ I began exploring it deeply, working with libraries like **tkinter**, **pyautogui**, **selenium**, **pyttsx3**, and eventually more advanced ones like **PyTorch**, **scikit-learn**, **pymongo, matplotlib, smtplib**, and many others I can’t even list all at once!
-
-Python remains my favorite language, and I still explore and learn new things in it regularly. 🔍📚
-
-After passing class 12, I realized the importance of having a solid grip on both frontend and backend technologies. Although Python can handle both sides, I wanted to broaden my skill set. So ***I have planned to learn C++, then Java, followed by HTML, CSS, JavaScript, and even Kotlin.*** 💻🚀
-
-Despite learning new languages, Python will always be my primary language. My next goal in Python is to build an AI model — yes, I’m diving into the world of AI and Machine Learning! 🤖📈
-
-There’s still a long way to go, and the tech world keeps evolving, but my goal remains the same:
-
-🔁 **KEEP Learning, KEEP Exploring**</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
@@ -100,22 +80,15 @@ There’s still a long way to go, and the tech world keeps evolving, but my goal
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,fastapi,cpp,py,mysql,mongodb,sqlite,git,github,vscode,tensorflow,pytorch,sklearn,opencv,matlab,figma,linux,windows,apple,kali" />
 </p>
 
-## Top Projects
+## My Stats
 
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=codex-yv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  /> -->
+  <img src="https://streak-stats.demolab.com?user=codex-yv&locale=en&mode=daily&theme=darcula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codex-yv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
+</div>
 
-<a href="https://github.com/codex-yv/Shop-Management-System---Bazaro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codex-yv&repo=Shop-Management-System---Bazaro&theme=buefy" />
-</a>
-<a href="https://github.com/codex-yv/Movie_py---Face-Recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codex-yv&repo=Movie_py---Face-Recognition&theme=buefy" />
-</a>
-<a href="https://github.com/codex-yv/realpass_pypi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codex-yv&repo=realpass_pypi&theme=buefy" />
-</a>
-<a href="https://github.com/codex-yv/Password-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codex-yv&repo=Valutlify&theme=buefy" />
-</a>
-<br />
-<br />
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codex-yv&show_icons=true&locale=en&layout=compact" alt="codex-yv" /></p>
+### GitHub Contributions Graph
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codex-yv&theme=github_dark" alt="Hoang Son's GitHub Achievements" />
+</div>
