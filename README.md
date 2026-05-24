@@ -57,18 +57,18 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 </div>
 
-## What I am doing
-
+<!-- 
+## What I am doing-->
+<!-- 
 - 🔭 Working on **Chatting web-app <currently private repository>**
 - 🌱 I’m currently learning **Nginx**
-
 - 💬 Available for freelancing.
-
 - 📫 How to reach me **yourajverma960@gmail.com**
+-->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
-</div>
+</div> -->
 
 ## 🛠️ Skills  
 
